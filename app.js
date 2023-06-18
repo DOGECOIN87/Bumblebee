@@ -53,4 +53,4 @@ document.getElementById('convert-button').addEventListener('click', async functi
     } catch (error) {
         console.error('Failed to convert text to audio:', error);
     }
-});
+}
