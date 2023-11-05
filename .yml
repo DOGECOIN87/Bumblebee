@@ -1,0 +1,3 @@
+              - name: Automated Back4App B4a deployment
+                uses: rimonhanna/github-action-b4a-deploy@v1.0.20
+            
